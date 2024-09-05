@@ -8,9 +8,4 @@ Since I'm already changing so much I decided to add a few other things in the mi
 
 I was recommended [Thorsten Ball's book](https://interpreterbook.com) which answers both calls to action.
 
-Here is a list of things I will expand upon regarding what I'm up to:
-- Dvorak
-- Neovim
-- [Thorsten Ball's book](https://interpreterbook.com)
-- Go
-- Github Challenge
+The last thing I have added was simply to commit something everyday.
