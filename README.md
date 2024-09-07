@@ -8,6 +8,8 @@ Since I'm already changing so much I decided to add a few other things in the mi
 
 I was recommended [Thorsten Ball's book](https://interpreterbook.com) which answers both calls to action.
 
+I'm not entirely sure what my opinion on Go is yet.
+
 The last thing I have added was simply to commit something everyday.
 
 ---
