@@ -11,7 +11,3 @@ I was recommended [Thorsten Ball's book](https://interpreterbook.com) which answ
 I'm not entirely sure what my opinion on Go is yet.
 
 The last thing I have added was simply to commit something everyday.
-
----
-
-If by chance anyone comes across this and has noticed the last few commits are all readme updates that is because I've been at a family reunion and will be back home in a couple days. :)
